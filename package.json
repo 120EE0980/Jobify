@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avinashpangam/Jobify.git"
+    "url": "git+https://github.com/120EE0980/Jobify.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avinashpangam/Jobify/issues"
+    "url": "https://github.com/120EE0980/Jobify/issues"
   },
-  "homepage": "https://github.com/avinashpangam/Jobify#readme",
+  "homepage": "https://github.com/120EE0980/Jobify#readme",
   "devDependencies": {
     "concurrently": "^7.0.0",
     "nodemon": "^2.0.15"
